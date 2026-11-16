@@ -1,0 +1,3 @@
+# Keep the fictional exclusion-test file off GitHub, so Netlify never publishes it
+do-not-publish/
+.DS_Store
